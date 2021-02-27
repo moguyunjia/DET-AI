@@ -11,8 +11,9 @@ Matlab 2017b
 This project consists the models and codes of  NARX-BP hybrid neural network.
 
 ## 3. Publication
-Estimation of in-situ biogas upgrading in microbial electrolysis cells via direct electron transfer: Two-stage machine learning modeling based on a NARX-BP hybrid neural network
+>Estimation of in-situ biogas upgrading in microbial electrolysis cells via direct electron transfer: Two-stage machine learning modeling based on a NARX-BP hybrid neural network
 
+The paper of this study is not availabel yet.
 
 ## 4. Version
 
